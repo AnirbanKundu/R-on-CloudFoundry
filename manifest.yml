@@ -1,0 +1,5 @@
+applications:
+ - name: ak-sample-r
+   memory: 1G
+   buildpack: https://github.com/beibeiyang/cf-buildpack-r.git
+   path: .
