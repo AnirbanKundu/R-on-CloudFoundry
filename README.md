@@ -1,7 +1,4 @@
 # R on Cloud Foundry
-### BuildPack
-
-Use the buildback https://github.com/beibeiyang/cf-buildpack-r.git 
 
 ### How to run 
 
